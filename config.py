@@ -9,6 +9,6 @@ BODY = ''''''
 HEADERS = '''{"Content-Type": "application/json"}'''
 TIMEOUT = 5
 RETRIES = 3
-NUM_REQUESTS = 1000
-CONCURRENT_WORKERS = 100
+NUM_REQUESTS = 100
+CONCURRENT_WORKERS = 10
     
